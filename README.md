@@ -4,6 +4,8 @@ This repository contains an example of reactive inference with [RxInfer.jl]() li
 The example implements an interactive environment where a user can change different parameters of the pendulum
 dynamics on the fly and see the result of the actions made by `RxInfer` agent implemention. 
 
+https://user-images.githubusercontent.com/6557701/214818455-191b9348-433b-493d-a892-b8b48266cb65.mov
+
 ## Installation instructions
 
 To (locally) reproduce this project, do the following:
