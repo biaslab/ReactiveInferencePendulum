@@ -1,0 +1,19 @@
+[2025-11-12 10:52:06] INFO - Logger initialized for ReactiveInferencePendulum
+[2025-11-12 10:52:36] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:52:40] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:52:40] INFO - start! called - creating inference engine
+[2025-11-12 10:52:40] DEBUG - vmp_iterations => 5
+[2025-11-12 10:52:48] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:52:48] INFO - start! called - creating inference engine
+[2025-11-12 10:52:48] DEBUG - vmp_iterations => 5
+[2025-11-12 10:53:11] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:53:11] INFO - start! called - creating inference engine
+[2025-11-12 10:53:11] DEBUG - vmp_iterations => 5
+[2025-11-12 10:53:17] INFO - stop! called
+[2025-11-12 10:53:17] INFO - Agent stopped and subscriptions removed
+[2025-11-12 10:53:19] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:53:19] INFO - start! called - creating inference engine
+[2025-11-12 10:53:19] DEBUG - vmp_iterations => 5
+[2025-11-12 10:56:03] DEBUG - reset! called: mean_control_priors=[0.0, 0.0, 0.0], var_control_priors=[1.0e10, 1.0e10, 1.0e10]
+[2025-11-12 10:56:03] INFO - start! called - creating inference engine
+[2025-11-12 10:56:03] DEBUG - vmp_iterations => 5
